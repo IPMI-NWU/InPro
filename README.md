@@ -29,4 +29,4 @@ The download links and extraction codes for our model weights are as follows：[
 * scikit-image 0.21.0<br>
 
 ## Acknowledgement
-This repo partially uses code from [CycleMix](https://github.com/BWGZK/CycleMIx) and [ShapePU](https://github.com/BWGZK/ShapePU).
+This repo partially uses code from [CycleMix](https://github.com/BWGZK/CycleMIx).
