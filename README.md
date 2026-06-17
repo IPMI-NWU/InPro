@@ -7,7 +7,7 @@ To further mitigate ambiguity in gaze, the prototype consensus pseudo-label modu
 Finally, the prototype-centered contrastive learning module is employed to maximize inter-class feature separability, strengthen discrimination between neighboring anatomical structures, and improve segmentation performance.
 Experimental results on two public datasets demonstrate that InPro outperforms state-of-the-art methods for gaze-supervised medical image segmentation. 
 
-![](./fig/fig-method.png)
+![](./fig/fig-InPro.png)
 
 # Model Weights
 The download links and extraction codes for our model weights are as follows：[Checkpoint](https://pan.baidu.com/s/1cRE9u6sSXicBgcr9r1AgjA?pwd=7777)
