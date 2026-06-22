@@ -1,4 +1,5 @@
-# InPro: Introspective Prototype-guided Framework with Consensus Pseudo-Label for Gaze-supervised Medical Image Segmentation
+# ConFus: Consensus Fusion Pseudo-Label Framework with Introspective Prototype for Gaze-Supervised Cardiac Segmentation
+
 > Creating fully annotated labels for medical image segmentation remains both time-consuming and expensive, underscoring the necessity for innovative strategies that reduce dependence on dense annotations. 
 Eye-tracking provides a cost-effective source of supervision that can be seamlessly integrated into radiologists’ workflows without imposing additional annotation burdens. Nevertheless, in multi-class segmentation settings, the inherent sparsity and ambiguity of gaze substantially degrade the quality of supervision, resulting in class diffusion and inaccurate segmentation in spatially adjacent regions.
 To overcome these limitations, we propose the Introspective Prototype-guided framework (InPro) for gaze-supervised medical image segmentation. 
