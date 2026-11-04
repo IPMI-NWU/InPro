@@ -23,10 +23,10 @@ def get_args_parser():
     }
     parser = argparse.ArgumentParser('Set transformer detector', add_help=False)
     parser.add_argument('--lr', default=0.0001, type=float)
-    parser.add_argument('--batch_size', default=2, type=int)
+    parser.add_argument('--batch_size', default=4, type=int)
     parser.add_argument('--weight_decay', default=1e-4, type=float)
     parser.add_argument('--epochs', default=1000, type=int)
-    parser.add_argument('--lr_drop', default=700, type=int)
+    parser.add_argument('--lr_drop', default=500, type=int)
     parser.add_argument('--tasks', default=tasks, type=dict)
     # Model parameters
     parser.add_argument('--frozen_weights', type=str, default=None,
