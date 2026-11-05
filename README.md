@@ -18,6 +18,8 @@ The download links and extraction codes for our model weights are as follows：[
 1. The MSCMR dataset with mask annotations can be downloaded from [MSCMRseg](https://zmiclab.github.io/zxh/0/mscmrseg19/data.html).
 2. The ACDC dataset with mask annotations can be downloaded from [ACDC](https://www.creatis.insa-lyon.fr/Challenge/acdc/).
 
+The gaze annotations for both the ACDC and MSCMRseg datasets can be downloaded from [Gaze](https://pan.baidu.com/s/1hGczmx0iRVhT8YJazbUi0g).
+
 ## Qualitative Results
 ![1.0](./fig/fig-result.png)
 
